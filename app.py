@@ -100,7 +100,7 @@ def cs_body():
 
     col1, col2, col3 = st.columns(3)
 
-    col1.subheader('Magic commands')
+    col1.subheader('STOCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZZZZZ')
     col1.code('''# Magic commands implicitly `st.write()`
 \'\'\' _This_ is some __Markdown__ \'\'\'
 a=3
