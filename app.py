@@ -4,7 +4,7 @@ import requests
 url_API =st.text_input("inserisci url dell'api","https://fantasticiris.herokuapp.com/predict?")
 
 def main():
-    st.title("FASTAPI - POST-GET Debugger")
+    st.title("FANTASTICAPI - POST-GET Debugger")
     input1 = st.text_input("Please write the first feature",2.0)
     input2 = st.text_input("Please write the second feature",1.4)
     input3 = st.text_input("Please write the third feature",3.0)
